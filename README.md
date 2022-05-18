@@ -4,5 +4,5 @@
 - Basic SQL querying;
 - DB creating;
 - Altering a table;
-- Projection columns, using SQL SELECT operator;
+- Columns projection, using SQL SELECT operator;
 - Basic data ordering.
