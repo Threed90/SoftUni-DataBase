@@ -5,4 +5,5 @@
 - DB creating;
 - Altering a table;
 - Columns projection, using SQL SELECT operator;
-- Basic data ordering.
+- Basic data ordering;
+- CRUD Operations.
